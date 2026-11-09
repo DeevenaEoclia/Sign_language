@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+pandas
+torch
+scikit-learn
+matplotlib
+streamlit
+streamlit-webrtc
+av
